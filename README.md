@@ -95,7 +95,7 @@
 
 ## 联系方式
 
-- 作者：苏月白
+- 开发者：苏月白
 - suyuebai-wys@outlook.com
 
 ---
