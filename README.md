@@ -58,7 +58,7 @@
 ### 系统要求
 
 - Windows 7 及以上
-- Android版本还躺在我的计划里，不过核心功能已开发放到了小Q盒子[点击去下载](https://gitee.com/suyuebai/xqhz_apk)里了，搜索试听下载没问题。
+- Android版本还躺在我的计划里，不过核心功能已开发放到了小Q盒子[（点击去下载）](https://gitee.com/suyuebai/xqhz_apk)里了，搜索试听下载没问题。
 - IOS 版暂时不计划
 
 ### 安装步骤
