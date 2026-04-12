@@ -10,6 +10,7 @@
 [![License](https://img.shields.io/badge/License-FREE-green.svg?style=flat-square)](LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue.svg?logo=flutter&style=flat-square)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart&style=flat-square)](https://dart.dev/)
+[![Join QQ](https://img.shields.io/badge/Join-QQ%20Group-blue.svg?logo=qq&style=flat-square)](https://qm.qq.com/q/VZXv1PfMg8)
 
 <br>
 
