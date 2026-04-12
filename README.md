@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-FREE-green.svg?style=flat-square)](LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue.svg?logo=flutter&style=flat-square)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart&style=flat-square)](https://dart.dev/)
-[![QQ群 QQ](https://img.shields.io/badge/Join-用户交流群-blue.svg?logo=qq&style=flat-square)](https://qm.qq.com/q/VZXv1PfMg8)
+[![Join QQ](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq&style=flat-square)](https://qm.qq.com/q/VZXv1PfMg8)
 
 <br>
 
