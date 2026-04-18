@@ -8,8 +8,6 @@
 [![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart&style=flat-square)](https://dart.dev/)
 [![Join QQ](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq&style=flat-square)](https://qm.qq.com/q/VZXv1PfMg8)
 
-<br>
-
 <!-- 按钮式下载链接 -->
 [![📥 下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
 
