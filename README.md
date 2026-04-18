@@ -3,17 +3,20 @@
 一款免费的音乐播放软件，支持在线搜索、播放、下载和管理音乐。
 <div align="center">
 <!-- 优化的技术栈徽章 -->
-[![License](https://img.shields.io/badge/License-FREE-green.svg?style=flat-square)](LICENSE)
-[![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue.svg?logo=flutter&style=flat-square)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart&style=flat-square)](https://dart.dev/)
-[![QQ Group](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq&style=flat-square)](https://qm.qq.com/q/VZXv1PfMg8)
+[![License](https://img.shields.io/badge/License-FREE-green.svg)](LICENSE)
+[![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue.svg?logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart)](https://dart.dev/)
+[![QQ群](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq)](https://qm.qq.com/q/VZXv1PfMg8)
 
-<!-- 按钮式下载链接 -->
-[![📥 下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
+<br>
 
-<!-- 3. 问题反馈 (请检查下方链接是否有效) -->
-### 🐛 反馈与建议
-[点击这里提交 Issue](https://gitee.com/suyuebai/yy-music/issues)
+<!-- 下载按钮 -->
+[![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
+
+<br>
+
+<!-- 反馈链接 -->
+[🐛 反馈问题 / 提交建议](https://gitee.com/suyuebai/yy-music/issues)
 
 </div>
 
