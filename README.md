@@ -2,10 +2,6 @@
 
 一款免费的音乐播放软件，支持在线搜索、播放、下载和管理音乐。
 <div align="center">
-
-<!-- 动态版本徽章：自动获取 Gitee 最新版本 -->
-[![最新版本](https://gitee.com/suyuebai/yy-music/badge/release.svg?color=blue)](https://gitee.com/suyuebai/yy-music/releases)
-
 <!-- 优化的技术栈徽章 -->
 [![License](https://img.shields.io/badge/License-FREE-green.svg?style=flat-square)](LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue.svg?logo=flutter&style=flat-square)](https://flutter.dev/)
