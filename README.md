@@ -17,7 +17,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart)](https://dart.dev/)
 [![QQ群](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq)](https://qm.qq.com/q/VZXv1PfMg8)
 <br>
-[![友链](https://img.shields.io/badge/友链-点击跳转-blue?style=flat-square&logoSvg=https://aiemmy.com/wp-content/uploads/2025/12/844de8116a20251220212403.png)](https://aiemmy.com)
+![博客](https://img.shields.io/badge/友联-技术分享-blue?logo=hexo)](https://aiemmy.com)
 <br>
 
 [![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
