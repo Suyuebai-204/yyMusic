@@ -16,11 +16,10 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue.svg?logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart)](https://dart.dev/)
 [![QQ群](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq)](https://qm.qq.com/q/VZXv1PfMg8)
-
+[![友链](https://img.shields.io/badge/友链-点击跳转-blue?style=flat-square)](https://aiemmy.com)
 <br>
 
 [![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
-[![友链](https://img.shields.io/badge/友链-点击跳转-blue?style=flat-square)](https://aiemmy.com)
 
 <br>
 
