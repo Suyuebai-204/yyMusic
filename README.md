@@ -1,12 +1,10 @@
-# 影悦
 
-一款免费的音乐播放软件，支持在线搜索、播放、下载和管理音乐。
 <div align="center">
 
 <!-- Logo 或标题可以放在这里 -->
 
-### 影月音乐 (YingYue Music)
-
+# 影悦（yymusic）
+一款免费的音乐播放软件，支持在线搜索、播放、下载和管理音乐。
 <br>
 
 <!-- 技术栈与下载部分 -->
@@ -22,6 +20,7 @@
 <br>
 
 [![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
+[![友链](https://img.shields.io/badge/友链-点击跳转-blue?style=flat-square)](https://aiemmy.com)
 
 <br>
 
