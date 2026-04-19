@@ -27,7 +27,7 @@
 </div>
 
 ## 友情链接
-[![博客](https://img.shields.io/badge/博客-技术分享-blue?logo=hexo)](https://aiemmy.com)
+[![博客](https://img.shields.io/badge/博客-技术分享-blue?logo=hexo)](https://lx.axuremost.cn)
 
 ## 项目简介
 
