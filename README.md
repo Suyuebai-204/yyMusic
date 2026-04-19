@@ -17,8 +17,6 @@
 [![Dart](https://img.shields.io/badge/Dart-3.11.3-blue.svg?logo=dart)](https://dart.dev/)
 [![QQ群](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq)](https://qm.qq.com/q/VZXv1PfMg8)
 <br>
-[![博客](https://img.shields.io/badge/友情链接-技术分享（博客）-blue?logo=hexo)](https://aiemmy.com)
-<br>
 
 [![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
 
@@ -27,6 +25,9 @@
 [🐛 反馈问题 / 提交建议](https://gitee.com/suyuebai/yy-music/issues)
 
 </div>
+
+## 友情链接
+[![博客](https://img.shields.io/badge/博客-技术分享-blue?logo=hexo)](https://aiemmy.com)
 
 ## 项目简介
 
