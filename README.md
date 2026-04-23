@@ -27,21 +27,16 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
-<div align="center" style="border:1px solid #ddd; border-radius:16px; padding:20px; background:#fafbfc; width:90%; max-width:480px;">
+<div align="center">
 
-<div style="display:flex; align-items:center; justify-content:center; margin-bottom:12px;">
-<img src="https://cyapi.top/favicon.ico" style="width:32px; height:32px; border-radius:8px; margin-right:10px;">
-<div>
-<div style="font-weight:bold; font-size:16px;">迟言API</div>
-<div style="color:#666; font-size:13px;">快速，稳定，易用的API</div>
-</div>
-</div>
+![Logo](https://cyapi.top/favicon.ico)
 
-<div style="margin-top:10px;">
-<a href="https://cyapi.top" style="background:#2d81f8; color:#fff; text-decoration:none; padding:6px 12px; border-radius:16px; margin:0 3px;">官网</a>
-<a href="mailto:cyapi@qq.com" style="background:#5c6ce7; color:#fff; text-decoration:none; padding:6px 12px; border-radius:16px; margin:0 3px;">邮箱</a>
-<span style="background:#24b55f; color:#fff; padding:6px 12px; border-radius:16px; margin:0 3px;">稳定运行</span>
-</div>
+# 迟言API
+一个快速，稳定，易用的API
+
+[![官网](https://img.shields.io/badge/🌐-官方网站-2563eb?style=rounded)](https://cyapi.top)
+[![邮箱](https://img.shields.io/badge/📮-cyapi@qq.com-4f46e5?style=rounded)](mailto:cyapi@qq.com)
+[![运行状态](https://img.shields.io/badge/✅-稳定运行-10b981?style=rounded)](https://cyapi.top)
 
 </div>
 
