@@ -17,7 +17,7 @@
 [![QQ群](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq)](https://qm.qq.com/q/VZXv1PfMg8)
 <br>
 
-[![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=for-the-badge&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
+[![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=rounded&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
 
 <br>
 
