@@ -27,6 +27,11 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
+[![迟言API - 音乐数据中枢](https://img.shields.io/badge/迟言API-%E9%9F%B3%E4%B9%90%E6%95%B0%E6%8D%AE%E4%B8%AD%E8%BD%89-1DB954?style=for-the-badge&logo=soundcloud&logoColor=white)](https://cyapi.top)
+[![极速响应](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/icapi/666/raw/response-time.json&style=for-the-badge&color=FF4081&logo=vercel)](https://cyapi.top)
+
+[![迟言API](https://img.shields.io/badge/API-迟言-blue?style=for-the-badge&logo=api&logoColor=white&labelColor=20232A&color=61DAFB)](https://cyapi.top)
+[![状态: 稳定运行](https://img.shields.io/badge/状态-%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-success?style=for-the-badge&logo=github&logoColor=white)](https://cyapi.top)
 
 ## 项目简介
 
