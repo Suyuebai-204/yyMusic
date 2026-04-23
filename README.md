@@ -27,20 +27,24 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
-<div style="border: 1px solid #e5e7eb; border-radius: 16px; padding: 20px; max-width: 500px; background: #fafbfc; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cyapi.top/favicon.ico" style="width: 32px; height: 32px; border-radius: 8px;">
-    <div>
-      <div style="font-size: 18px; font-weight: bold; color: #1f2937;">迟言API</div>
-      <div style="color: #6b7280; margin-top: 2px;">快速、稳定、易用的API</div>
+<div style="max-width: 520px; margin: 0 auto; background: #ffffff; border-radius: 20px; border: 1px solid #e8e8e8; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); padding: 24px; box-sizing: border-box;">
+  
+  <!-- 头部信息卡片块 -->
+  <div style="display: flex; align-items: center; gap: 14px; background: #f5f7fa; border-radius: 14px; padding: 16px; margin-bottom: 18px;">
+    <img src="https://cyapi.top/favicon.ico" style="width: 36px; height: 36px; border-radius: 12px; object-fit: cover;">
+    <div style="flex: 1;">
+      <div style="font-size: 19px; font-weight: 600; color: #1d2129; margin-bottom: 4px;">迟言API</div>
+      <div style="font-size: 14px; color: #86909c;">快速，稳定，易用的API</div>
     </div>
   </div>
 
-  <div style="display: flex; gap: 10px; margin-top: 16px;">
-    <a href="https://cyapi.top" style="background:#2563eb; color:#fff; padding:7px 16px; border-radius:999px; text-decoration:none; font-size:14px; box-shadow: 0 2px 6px rgba(37,99,235,0.2); transition: 0.2s;">官网</a>
-    <a href="mailto:cyapi@qq.com" style="background:#4f46e5; color:#fff; padding:7px 16px; border-radius:999px; text-decoration:none; font-size:14px; box-shadow: 0 2px 6px rgba(79,70,229,0.2); transition: 0.2s;">邮箱</a>
-    <span style="background:#10b981; color:#fff; padding:7px 16px; border-radius:999px; font-size:14px; box-shadow: 0 2px 6px rgba(16,185,129,0.2);">稳定运行</span>
+  <!-- 按钮组 独立小卡片包裹 -->
+  <div style="display: flex; gap: 12px; flex-wrap: wrap; background: #f5f7fa; border-radius: 14px; padding: 16px;">
+    <a href="https://cyapi.top" style="display: inline-block; flex: 1; text-align: center; background: #2563eb; color: #fff; font-size: 14px; font-weight: 500; text-decoration: none; border-radius: 12px; padding: 9px 0;">官方网站</a>
+    <a href="mailto:cyapi@qq.com" style="display: inline-block; flex: 1; text-align: center; background: #5b54e4; color: #fff; font-size: 14px; font-weight: 500; text-decoration: none; border-radius: 12px; padding: 9px 0;">联系邮箱</a>
+    <span style="display: inline-block; flex: 1; text-align: center; background: #10b981; color: #fff; font-size: 14px; font-weight: 500; border-radius: 12px; padding: 9px 0;">稳定运行</span>
   </div>
+
 </div>
 
 ## 项目简介
