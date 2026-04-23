@@ -27,7 +27,7 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
-<div align="center">
+<div align="left">
 
 ![Logo](https://cyapi.top/favicon.ico)
 
