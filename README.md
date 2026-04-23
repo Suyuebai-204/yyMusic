@@ -31,7 +31,7 @@
 
 ![Logo](https://cyapi.top/favicon.ico)
 
-# 迟言API
+### 迟言API
 一个快速，稳定，易用的API
 
 [![官网](https://img.shields.io/badge/🌐-官方网站-2563eb?style=rounded)](https://cyapi.top)
@@ -39,6 +39,7 @@
 [![运行状态](https://img.shields.io/badge/✅-稳定运行-10b981?style=rounded)](https://cyapi.top)
 
 </div>
+---
 
 ## 项目简介
 
