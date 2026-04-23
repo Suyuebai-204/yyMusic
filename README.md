@@ -27,8 +27,21 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
-<a href="https://cyapi.top" style="background:#0ea5e9; color:white; padding:6px 12px; border-radius: 12px; text-decoration: none;">迟言API</a>
-<span style="background:#059669; color:white; padding:6px 12px; border-radius: 12px;">稳定运行</span>
+<div style="border: 1px solid #e5e7eb; border-radius: 16px; padding: 20px; max-width: 500px; background: #fafbfc; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cyapi.top/favicon.ico" style="width: 32px; height: 32px; border-radius: 8px;">
+    <div>
+      <div style="font-size: 18px; font-weight: bold; color: #1f2937;">迟言API</div>
+      <div style="color: #6b7280; margin-top: 2px;">快速、稳定、易用的API</div>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 10px; margin-top: 16px;">
+    <a href="https://cyapi.top" style="background:#2563eb; color:#fff; padding:7px 16px; border-radius:999px; text-decoration:none; font-size:14px; box-shadow: 0 2px 6px rgba(37,99,235,0.2); transition: 0.2s;">官网</a>
+    <a href="mailto:cyapi@qq.com" style="background:#4f46e5; color:#fff; padding:7px 16px; border-radius:999px; text-decoration:none; font-size:14px; box-shadow: 0 2px 6px rgba(79,70,229,0.2); transition: 0.2s;">邮箱</a>
+    <span style="background:#10b981; color:#fff; padding:7px 16px; border-radius:999px; font-size:14px; box-shadow: 0 2px 6px rgba(16,185,129,0.2);">稳定运行</span>
+  </div>
+</div>
 
 ## 项目简介
 
