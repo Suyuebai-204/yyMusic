@@ -27,17 +27,25 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
-<div align="left">
-
-![Logo](https://cyapi.top/favicon.ico)
-
-### 迟言API
-一个快速，稳定，易用的API
-
-[![官网](https://img.shields.io/badge/API-官方网站-2563eb?style=rounded)](https://cyapi.top)
-[![邮箱](https://img.shields.io/badge/QQ邮箱-cyapi@qq.com-4f46e5?style=rounded)](mailto:cyapi@qq.com)
-
-</div>
+<table>
+  <tr>
+    <!-- 左侧：图片 -->
+    <td valign="middle" width="80">
+      <img src="https://cyapi.top/favicon.ico" width="50" alt="Logo">
+    </td>
+    <!-- 右侧：文字内容 -->
+    <td valign="middle">
+      <h3>迟言API</h3>
+      <p>一个快速，稳定，易用的API</p>
+      <a href="https://cyapi.top">
+        <img src="https://img.shields.io/badge/API-官方网站-2563eb?style=rounded" alt="官网">
+      </a>
+      <a href="mailto:cyapi@qq.com">
+        <img src="https://img.shields.io/badge/QQ邮箱-cyapi@qq.com-4f46e5?style=rounded" alt="邮箱">
+      </a>
+    </td>
+  </tr>
+</table>
 <hr style="width: 60%; margin: 12px auto; border: 0; border-top: 1px solid #e5e7eb;">
 
 ## 项目简介
