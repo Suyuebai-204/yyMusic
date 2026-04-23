@@ -36,7 +36,6 @@
 
 [![官网](https://img.shields.io/badge/🌐-官方网站-2563eb?style=rounded)](https://cyapi.top)
 [![邮箱](https://img.shields.io/badge/📮-cyapi@qq.com-4f46e5?style=rounded)](mailto:cyapi@qq.com)
-[![运行状态](https://img.shields.io/badge/✅-稳定运行-10b981?style=rounded)](https://cyapi.top)
 
 </div>
 <hr style="width: 60%; margin: 12px auto; border: 0; border-top: 1px solid #e5e7eb;">
