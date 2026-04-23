@@ -39,7 +39,7 @@
 [![运行状态](https://img.shields.io/badge/✅-稳定运行-10b981?style=rounded)](https://cyapi.top)
 
 </div>
----
+<hr style="width: 60%; margin: 12px auto; border: 0; border-top: 1px solid #e5e7eb;">
 
 ## 项目简介
 
