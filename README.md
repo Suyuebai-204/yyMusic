@@ -27,12 +27,8 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
-
-<div style="display: flex; gap: 10px; margin: 10px 0;">
-  <a href="https://cyapi.top" style="background: #2563eb; color: white; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-weight: bold;">迟言API</a>
-  <span style="background: #10b981; color: white; padding: 8px 16px; border-radius: 999px; font-weight: bold;">稳定运行</span>
-  <a href="mailto:cyapi@qq.com" style="background: #4f46e5; color: white; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-weight: bold;">联系我们</a>
-</div>
+<a href="https://cyapi.top" style="background:#0ea5e9; color:white; padding:6px 12px; border-radius: 12px; text-decoration: none;">迟言API</a>
+<span style="background:#059669; color:white; padding:6px 12px; border-radius: 12px;">稳定运行</span>
 
 ## 项目简介
 
