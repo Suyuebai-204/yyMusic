@@ -28,20 +28,10 @@
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
 
-<div style="border: 1px solid #e5e7eb; border-radius: 16px; padding: 20px; max-width: 500px; background: #fafbfc;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cyapi.top/favicon.ico" style="width: 32px; height: 32px; border-radius: 8px;">
-    <div>
-      <div style="font-size: 18px; font-weight: bold;">迟言API</div>
-      <div style="color: #6b7280;">快速、稳定、易用的API服务</div>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 8px; margin-top: 14px;">
-    <a href="https://cyapi.top" style="background:#2563eb; color:white; padding:6px 14px; border-radius:999px; text-decoration:none;">官网</a>
-    <a href="mailto:cyapi@qq.com" style="background:#4f46e5; color:white; padding:6px 14px; border-radius:999px; text-decoration:none;">邮箱</a>
-    <span style="background:#10b981; color:white; padding:6px 14px; border-radius:999px;">稳定</span>
-  </div>
+<div style="display: flex; gap: 10px; margin: 10px 0;">
+  <a href="https://cyapi.top" style="background: #2563eb; color: white; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-weight: bold;">迟言API</a>
+  <span style="background: #10b981; color: white; padding: 8px 16px; border-radius: 999px; font-weight: bold;">稳定运行</span>
+  <a href="mailto:cyapi@qq.com" style="background: #4f46e5; color: white; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-weight: bold;">联系我们</a>
 </div>
 
 ## 项目简介
