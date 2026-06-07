@@ -28,6 +28,10 @@
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
 
+| 图标 | 站点名称 | 简介 | 访问地址 | 联系邮箱 |
+| :---: | ---- | ---- | ---- | ---- |
+| <img src="https://cyapi.top/favicon.ico" width="32"> | 迟言API | 快速、稳定、易用的API服务平台 | [https://cyapi.top](https://cyapi.top) | cyapi@qq.com |
+
 <hr style="width: 60%; margin: 12px auto; border: 0; border-top: 1px solid #e5e7eb;">
 
 ## 项目简介
