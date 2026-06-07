@@ -30,8 +30,7 @@
 
 | 图标 | 站点信息 |
 | :---: | --- |
-| <img src="https://cyapi.top/favicon.ico" width="32"> | **迟言API**<br>快速、稳定、易用的API<br>[https://cyapi.top](https://cyapi.top)<br>cyapi@qq.com |
-
+| <img src="https://cyapi.top/favicon.ico" width="32"> | **迟言API**<br>快速、稳定、易用的API<br>[![Website](https://img.shields.io/badge/Website-cyapi.top-2196F3?logo=web)](https://cyapi.top) [![Email](https://img.shields.io/badge/Email-cyapi@qq.com-12B76A?logo=mail)](mailto:cyapi@qq.com) |
 <hr style="width: 60%; margin: 12px auto; border: 0; border-top: 1px solid #e5e7eb;">
 
 ## 项目简介
