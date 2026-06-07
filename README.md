@@ -30,7 +30,7 @@
 
 | 图标 | 站点信息 |
 | :---: | --- |
-| <img src="https://cyapi.top/favicon.ico" width="32"> | **迟言API**<br>快速、稳定、易用的API服务平台<br>🔗 [https://cyapi.top](https://cyapi.top) &nbsp;&nbsp; 📮 cyapi@qq.com |
+| <img src="https://cyapi.top/favicon.ico" width="32"> | **迟言API**<br>快速、稳定、易用的API<br>[https://cyapi.top](https://cyapi.top)<br>cyapi@qq.com |
 
 <hr style="width: 60%; margin: 12px auto; border: 0; border-top: 1px solid #e5e7eb;">
 
