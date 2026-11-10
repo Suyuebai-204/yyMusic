@@ -17,7 +17,7 @@
 [![QQ群](https://img.shields.io/badge/QQ群-用户交流群-blue.svg?logo=qq)](https://qm.qq.com/q/VZXv1PfMg8)
 <br>
 
-[![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=rounded&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
+[![下载最新内测版](https://img.shields.io/badge/📥_下载-最新内测版-brightgreen?style=plastic&logo=windows)](https://gitee.com/suyuebai/yy-music/releases)
 
 <br>
 
@@ -27,6 +27,7 @@
 
 ## 友情链接
 [![博客](https://img.shields.io/badge/TV应用-Lx智能电视网-blue?logo=hexo)](https://lx.axuremost.cn)
+
 
 | 图标 | 站点信息 |
 | :---: | --- |
@@ -52,7 +53,7 @@
 - ✅ 歌单管理：支持创建和管理歌单（支持其他音乐平台的歌单导入）
 - ✅ 播放历史：记录播放历史
 - ✅ 热门搜索：显示热门搜索关键词
-- ✅ 账号登录
+- ✅ 账号登录：可管理账号上的歌单（包括增删改操作，以及云端回收站），评论区支持发布、删除、举报评论（便捷操作：可自由复制评论和图片，评论和头像的图片都可放大）
 
 ## 技术栈
 
@@ -101,7 +102,7 @@
 ![音效](images/ys.png)
 
 ### 悬浮窗桌面歌词
-- 自由调整字体大小、背景透明度
+- 自由调整字体大小、背景透明度；快捷键控制穿透
 ![桌面歌词](images/lyr.png)
 
 ### MV
@@ -153,8 +154,18 @@
 2. 支持试听音质修改
 3. 可随时清理缓存（试听歌曲会占用存储空间，清理发现还剩下几十MB？这是正常的，因为有文件正在被占用，不必理会）
 ![设置](images/set.png)
-4. 扩展功能（内存优化，只是快捷清理图片等缓存）
+![其他](images/set3.png)
+4. 扩展功能（内存优化，可清理系统级缓存）
 ![内存优化](images/ncyh.png)
+![解析网易云音乐直链](images/othor.png)
+![提取哔哩哔哩音频，多音质](images/othor1.png)
+![酷狗音乐直链](images/othor2.png)
+![多线程下载，拉满你的带宽上限](images/othor3.png)
+
+### 关于
+
+日志分析
+![日志分析功能](images/log.png)
 
 ## 联系方式
 
