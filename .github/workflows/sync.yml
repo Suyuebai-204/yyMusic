@@ -10,5 +10,5 @@ jobs:
       - name: Mirror from Gitee
         uses: wearerequired/git-mirror-action@v1
         with:
-          source-repo: https://gitee.com/Suyuebai-204/yyMusic.git
+          source-repo: https://gitee.com/suyuebai/yy-music.git
           destination-repo: https://github.com/Suyuebai-204/yyMusic.git
