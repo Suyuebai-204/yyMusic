@@ -1,0 +1,15 @@
+name: Sync to GitHub
+on:
+  push:
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Push to GitHub
+        run: |
+          git remote add github https://${{ secrets.GH_TOKEN }}@github.com/Suyuebai-204/yyMusic.git
+          git push github HEAD:main --force
