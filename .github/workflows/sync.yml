@@ -11,4 +11,6 @@ jobs:
         uses: wearerequired/git-mirror-action@v1
         with:
           source-repo: https://gitee.com/suyuebai/yy-music.git
-          destination-repo: https://github.com/Suyuebai-204/yyMusic.git
+          destination-repo: https://${{ secrets.GIT_TOKEN }}@github.com/Suyuebai-204/yyMusic.git
+        env:
+          GIT_SSL_NO_VERIFY: "1"
